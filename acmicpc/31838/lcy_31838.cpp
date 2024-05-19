@@ -18,7 +18,7 @@ long long dp(vector<long long>& vec)
 		sum[i] += sum[i - 1] + vec[i];
 	}
 
-	long long ans = -500001;
+	long long ans = 0;
 	for (int idx = 1; idx < k + 1; idx++)
 	{
 		if (sum[idx] > res + sum[idx + n <= k ? idx + n : k] - sum[idx - 1])
@@ -29,18 +29,15 @@ long long dp(vector<long long>& vec)
 		else
 		{
 			dp[idx] = res + sum[idx + n <= k ? idx + n : k] - sum[idx - 1];
-
-			res = 0;
 		}
 
 		ans = max(dp[idx], ans);
-		cout << dp[idx] << " ";
 	}
 
 	return ans;
 }
 
-int main() 
+int main()
 {
 	cin >> k >> n;
 
