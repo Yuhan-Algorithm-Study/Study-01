@@ -8,7 +8,7 @@
 | 2주차        | [31838](https://www.acmicpc.net/problem/31838) - [코드](https://github.com/Yuhan-Algorithm-Study/Study-01/tree/main/acmicpc/31838) | - |
 | 3주차        | [2694](https://www.acmicpc.net/problem/2694) - [코드](https://github.com/Yuhan-Algorithm-Study/Study-01/tree/main/acmicpc/2694) | [15823](https://www.acmicpc.net/problem/15823) - [코드](https://github.com/Yuhan-Algorithm-Study/Study-01/tree/main/acmicpc/15823) |
 | 4주차        | [2539](https://www.acmicpc.net/problem/2539) - [코드](https://github.com/Yuhan-Algorithm-Study/Study-01/tree/main/acmicpc/2539) | - |
-| 5주차        | [5884](https://www.acmicpc.net/problem/5884) - [코드](https://github.com/Yuhan-Algorithm-Study/Study-01/tree/main/acmicpc/5884) |  |
+| 5주차        | [5884](https://www.acmicpc.net/problem/5884) - [코드](https://github.com/Yuhan-Algorithm-Study/Study-01/tree/main/acmicpc/5884) | [28303](https://www.acmicpc.net/problem/28303) - [코드](https://github.com/Yuhan-Algorithm-Study/Study-01/tree/main/acmicpc/28303) |
 | ...          | ...                                                                   | ...                                                          |
 
 </div>
